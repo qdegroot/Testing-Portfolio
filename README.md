@@ -30,4 +30,16 @@ Portfolio for Software Testing guided by Angie Jones' summary at https://techbea
 - Pull one app each from [Android](https://apkpure.com/app) and [iOS](https://en.wikipedia.org/wiki/List_of_free_and_open-source_iOS_applications)
 - Use [Appium](https://testautomationu.applitools.com/appium-javascript-tutorial/) to build out tests
 
+### Visual testing
+- Add visual testing elements to the Web test suite
+- Add visual testing elements to the Mobile test suite
+
+### API testing
+- Interact with at least one GET method and at least one POST method
+- Use deserialization verification
+- Use approval testing
+- Mock api responses
+- Test against one of:
+  - [Swagger Petstore](https://petstore.swagger.io/), [Parabank](http://parabank.parasoft.com/parabank/api-docs/index.html), [Restful Booker](https://restful-booker.herokuapp.com/apidoc/index.html), or [Zippopotam.us](https://zippopotam.us/)
+  
 ### ...to be continued
