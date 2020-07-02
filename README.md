@@ -42,4 +42,7 @@ Portfolio for Software Testing guided by Angie Jones' summary at https://techbea
 - Test against one of:
   - [Swagger Petstore](https://petstore.swagger.io/), [Parabank](http://parabank.parasoft.com/parabank/api-docs/index.html), [Restful Booker](https://restful-booker.herokuapp.com/apidoc/index.html), or [Zippopotam.us](https://zippopotam.us/)
   
-### ...to be continued
+### BDD specification automation
+- Demonstrate mapping between feature files and step definitions
+- Demonstrate sharing state between steps via dependency injection
+- Audit feature files for cleanliness and conciseness
